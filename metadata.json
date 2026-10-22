@@ -1,0 +1,6 @@
+{
+  "name": "Parabéns, Lívia! 🎉",
+  "description": "Uma página comemorativa e alegre de felicitações de aniversário para Lívia, com balões animados, chuva de confetes, bolo interativo e mensagens especiais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
